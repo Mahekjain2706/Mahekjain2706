@@ -1,7 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-  
-</p>
+</p> -->
 <h1 align="center">Hi 👋, I'm Mahek Jain </h1>
 <h3 align="center">A passionate frontend Web developer from India</h3>
 <img width="400" src="https://tenor.com/bUHIQ.gif" >
