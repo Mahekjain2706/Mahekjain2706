@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lci2021028@iiitl.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Ne2Pd6mi7rpypXaWy1ZD-AhTouOJa3d/view?usp=sharing](https://drive.google.com/file/d/18Ne2Pd6mi7rpypXaWy1ZD-AhTouOJa3d/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jA9a-gP6qbHS9gbg0eKHLAbj9pzqK6Mb/view?usp=sharing](https://drive.google.com/file/d/1jA9a-gP6qbHS9gbg0eKHLAbj9pzqK6Mb/view?usp=sharing)
 
 - ⚡ Fun fact **I am enthusiastic for learning new things.**
 
